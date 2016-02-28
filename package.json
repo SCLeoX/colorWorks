@@ -1,8 +1,8 @@
 {
   "name": "colorworks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "colorWorks is a library provides nestable color function which can create colorful messages in node.js console.",
-  "main": "colorWorks.js.js",
+  "main": "colorWorks.js",
   "scripts": {
     "test": "node example.js"
   },
