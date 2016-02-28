@@ -1,0 +1,20 @@
+{
+  "name": "colorworks",
+  "version": "1.0.0",
+  "description": "colorWorks is a library provides nestable color function which can create colorful messages in node.js console.",
+  "main": "colorWorks.js.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SCLeoX/colorWorks.git"
+  },
+  "keywords": [
+    "colors",
+    "term",
+    "interface"
+  ],
+  "author": "SCLeo",
+  "license": "MIT"
+}
