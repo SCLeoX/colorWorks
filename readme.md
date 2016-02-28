@@ -1,4 +1,4 @@
-# colorWorks.js
+# colorWorks.js [![Build Status](https://travis-ci.org/SCLeoX/colorWorks.svg?branch=master)](https://travis-ci.org/SCLeoX/colorWorks)
 
 colorWorks.js is a library provides nestable color function which can create colorful messages in node.js console.
 
@@ -40,7 +40,7 @@ colorWorks.js is a library provides nestable color function which can create col
 	console.info(cw2.compile('[[yellow|Just one hint at last, this library works best with Template Strings in ECMA 6.]]'));
 	
 After running that, you will get:
-![alt tag](http://i.imgur.com/b7B82Xo.png)
+![alt tag](https://cloud.githubusercontent.com/assets/13428807/13381239/3dd3f748-de25-11e5-8dde-bf7eef30470e.png)
 
 ## Usage
 ### Create a colorWorksObj
